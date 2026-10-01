@@ -2,8 +2,7 @@
   "use strict";
 
   // ---- Configuração central do WhatsApp -----------------------------
-  // Número informado pela cliente: +55 66 99027509
-  var WHATSAPP_NUMBER = "556699027509";
+  var WHATSAPP_NUMBER = "556692443890";
 
   // Preenche todos os links marcados com data-whatsapp usando o número
   // acima e a mensagem específica de cada botão (data-wa-text).
